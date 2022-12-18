@@ -1,0 +1,11 @@
+#include "MyClass."
+
+MyClass::MyClass()
+{
+    //ctor
+}
+
+MyClass::~MyClass()
+{
+    //dtor
+}
