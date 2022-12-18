@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661659639 source:c:\users\bageg\desktop\new foldecode block\group 10\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+
