@@ -1,0 +1,6 @@
+#include "MyClass."
+
+MyClass::MyClass()
+{
+    //ctor
+}
