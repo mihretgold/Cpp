@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661667728 source:c:\users\bageg\desktop\new foldecode block\file yt\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

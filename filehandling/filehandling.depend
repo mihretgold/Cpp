@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660627631 source:c:\users\bageg\desktop\new foldecode block\filehandling\main.cpp
+	<iostream>
+	<fstream>
+

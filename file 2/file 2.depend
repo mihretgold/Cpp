@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661152807 source:c:\users\bageg\desktop\new foldecode block\file 2\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+
